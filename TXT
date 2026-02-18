@@ -1,0 +1,23 @@
+Absolutely! You can now run your agent with one click or one command directly inside Antigravity:
+
+Option 1: The "Slash Command" (Easiest)
+Whenever you want to start your server, just type this in our chat:
+
+/run
+
+I have set up a Workflow for you. When you type /run, I will automatically:
+
+Kill any stuck servers.
+Fix your dependencies.
+Launch the AI Agent for you.
+Option 2: Double-Click in Windows
+If you are outside of this chat, you can simply double-click the file named 
+START_AGENT.bat
+ in your project folder. It will do exactly the same thing.
+
+Why this is better:
+You don't need to remember commands like python app.py.
+You don't need to worry about "Port already in use" errors.
+Everything is handled for you automatically.
+Try it right now! Type /run in the chat and watch the agent start up perfectly. 🚀🤖
+

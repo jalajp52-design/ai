@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langgraph
+python-dotenv
+pydantic
+duckduckgo-search
+selenium
+flask
+langchain-groq
+requests
+wikipedia
+google-generativeai
+PyPDF2
+python-docx
